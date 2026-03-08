@@ -66,3 +66,9 @@ Future improvements could include:
 
 - Adding reminders or notifications
 - Supporting multiple calendars
+
+## Setup
+
+See the installation guide here:
+
+[Setup Guide](setup.md)
